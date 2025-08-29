@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Registration Form</title>
 </head>
 <body>
 	<h2>Student Registration Form</h2>
@@ -50,5 +50,6 @@
 		</table>
 		<font color="green">${msg}</font>
 	</form:form>
+	<a href="viewStudents">View Student</a>
 </body>
 </html>

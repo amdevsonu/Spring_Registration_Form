@@ -1,7 +1,7 @@
 package com.sonuit.binding;
 
 import java.util.Arrays;
-
+//Binding class
 public class Student {
 	private Integer sid;
 	private String name;
@@ -9,6 +9,7 @@ public class Student {
 	private String gender;
 	private String course;
 	private String[] timing;
+	//setter getter & toSTring()
 	public Integer getSid() {
 		return sid;
 	}

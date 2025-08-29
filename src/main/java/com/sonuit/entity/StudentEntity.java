@@ -20,6 +20,7 @@ public class StudentEntity {
 	public Integer getSid() {
 		return sid;
 	}
+	//Getter & setter and toString()
 	public void setSid(Integer sid) {
 		this.sid = sid;
 	}
